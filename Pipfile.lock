@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b56095f1c2f378807094fbf274528c71553a784f2e51091e3d1d76c63ee9b237"
+            "sha256": "3cfe295390bf9e95b73c4f6e09ad4fd88d95483f8a2211aa8e2890f5c06ff3ca"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -471,10 +471,10 @@
                 "sha256:4ac5db72176ce144f1fcde8d1ef7bdbccf5bb7a53e3d366b16fcd7c85319fdfd",
                 "sha256:81a3aae4021d5ab91790fc71c3433791f41bfc71586e857f7777f429a955039a"
             ],
-            "markers": "python_version >= '3.6'",
+            "index": "pypi",
             "version": "==5.13.0"
         },
-        "plotly-express": {
+        "plotly.express": {
             "hashes": [
                 "sha256:5f112922b0a6225dc7c010e3b86295a74449e3eac6cac8faa95175e99b7698ce",
                 "sha256:ff73a41ce02fb43d1d8e8fa131ef3e6589857349ca216b941b8f3f862bce0278"
