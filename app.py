@@ -10,4 +10,8 @@ st.header('Employee Attrition: A short story.')
 
 st.write(px.histogram(df, x='Attrition', color='HourlyRate'))
 
+st.write(px.scatter_matrix(df, color='Attrition', diagonal_visible=False))
+
+
+
 st.write('It is not a functional application yet. Under construction.') 
