@@ -4,7 +4,6 @@ import streamlit as st
 import plotly.express as px
 
 # read dataframe
-
 df = pd.read_csv('HR_Analytics.csv')
 
 st.header('Employee Attrition: A short story.')
